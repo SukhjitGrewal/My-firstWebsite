@@ -1,0 +1,80 @@
+ {
+  color: red;
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+ul {
+  font-weight: bolder;
+  font-style: italic;
+}
+ul {
+  padding: 5px yellow;
+  border: 10px solid black;
+  margin: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+ul {
+  content: 5px solid yellow;
+}
+h1 {
+  border: 5px solid black;
+}
+h1 {
+  background-color: lightblue;
+}
+h2 {
+  text-align: center;
+}
+h2 {
+  border: 3px solid black;
+  background-color: lightblue;
+}
+ul {
+  background-color: lightblue;
+}
+body {
+  width: 500px;
+  border: 5px solid black;
+  padding: 20px 50px;
+  margin: 30px auto;
+}
+img {
+  height: 500px;
+}
+body {
+  background-color: white;
+}
+
+.color {
+  color: green;
+}
+
+#font {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#font:hover {
+  color: blue;
+}
+
+h1:hover {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+img {
+  width: 475px;
+  height: 300px;
+  border: solid black 5px;
+}
+
+html {
+  background-image: url(Hubble_ultra_deep_field.jpg);
+}
